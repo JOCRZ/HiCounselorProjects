@@ -16,7 +16,7 @@ Ecommerce Sentiment Analysis and Review Processing using Python and SQL
 - Recession Analysis  DA Begginer
 - Superstore Sales Analysis  DA Begginer
 
-### Data Scientist Project
+### Data Scientist Projects
 
 #### Advanced
 - Data-Driven Sales Forecasting: Big Mart Retail Store Case  DS Advanced
