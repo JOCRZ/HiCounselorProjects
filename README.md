@@ -1,21 +1,27 @@
 # HiCounselorProjects
 
-Analyzing E-commerce Transactions:Data Cleaning, Cohort Analysis, and SQL - DA Advanced
-Insta-Insights: Analyzing User Behavior on Instagram with SQL - DA Advanced
+### Data Analytics Projects
 
-Analysing Employees Performance for HR Analytics - DA Intermediate
-AnimeReview: MySQL-driven Analysis of User Feedback for Anime Ratings - DA Intermediate
-Sales Data Exploration using SQL
+- Analyzing E-commerce Transactions:Data Cleaning, Cohort Analysis, and SQL  DA Advanced
+- Insta-Insights: Analyzing User Behavior on Instagram with SQL  DA Advanced
+
+- Analysing Employees Performance for HR Analytics  DA Intermediate
+- AnimeReview: MySQL-driven Analysis of User Feedback for Anime Ratings  DA Intermediate
+- Sales Data Exploration using SQL DA Intermediate
 Ecommerce Sentiment Analysis and Review Processing using Python and SQL
 
-Recession Analysis - DA Begginer
-Superstore Sales Analysis - DA Begginer
+- Recession Analysis  DA Begginer
+- Superstore Sales Analysis  DA Begginer
 
-Data-Driven Sales Forecasting: Big Mart Retail Store Case - DS Advanced
-Customer Segmentation with Machine Learning using Python - DS Advanced
-Enhancing Hospital Efficiency with ML: Data Cleaning, XGBoost, and Predictive Modeling - DS Advanced
-Sentiment Analysis - Sentiment Analysis Using Twitter Data - DS Advanced
+### Data Scientist Project
 
+#### Advanced
+- Data-Driven Sales Forecasting: Big Mart Retail Store Case  DS Advanced
+- Customer Segmentation with Machine Learning using Python  DS Advanced
+- Enhancing Hospital Efficiency with ML: Data Cleaning, XGBoost, and Predictive Modeling  DS Advanced
+- Sentiment Analysis - Sentiment Analysis Using Twitter Data  DS Advanced
+
+#### Intermediate
 Estimating Healthcare Insurance Expenses through Machine Learning. - DS Intermediate
 Elevating Talent Matching with Word2Vec Word Embedding with Gensim in Python. - DS Intermediate
 Patient-Centric Drug Selection using Machine Learning - DS Intermediate
